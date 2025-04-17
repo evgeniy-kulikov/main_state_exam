@@ -36,6 +36,16 @@ for i in range(n):
 
 # https://stepik.org/lesson/298795/step/8?unit=280622
 n = int(input())
+half = (n + 1) // 2
+
+for i in range(1, half):
+    print('*' * i)
+
+for i in range(half, 0, -1):
+    print('*' * i)
+
+# Одним обходом
+n = int(input())
 for i in range(1, n + 1):
     if i <= n // 2 + 1:
         print('*' * i)
