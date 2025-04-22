@@ -1,5 +1,6 @@
 /.idea/
 /desktop.ini
 /andrey/test.py
-/andrey/course-58852/test.py
-/andrey/course-100707/test.py
+/andrey/course-58852/test_58852.py
+/andrey/course-100707/test_100707.py
+/andrey/course-189107/test_189107.py
